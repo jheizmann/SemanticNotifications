@@ -18,7 +18,7 @@
 			<dependency from="100" to="140">semanticgardening</dependency>
 			<dependency from="101">scriptmanager</dependency>
 		</dependencies>
-		<patchlevel>1</patchlevel>
+		<patchlevel>2</patchlevel>
 	</global>
 	<codefiles>
 	</codefiles>
